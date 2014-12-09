@@ -1,9 +1,9 @@
 (module TerminalBlock_WAGO-804_RM7.5mm_2pol (layer F.Cu) (tedit 5471B07E)
-  (fp_text reference X (at 0 -9.5) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference TerminalBlock_WAGO-804_RM7.5mm_2pol (at 0 -9.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TerminalBlock_WAGO-804_RM7.5mm_2pol (at 0 8) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 8) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 6.25 -8.3) (end 11.25 -8.3) (layer F.SilkS) (width 0.15))
   (fp_line (start 6.25 3.8) (end 11.25 3.8) (layer F.SilkS) (width 0.15))
